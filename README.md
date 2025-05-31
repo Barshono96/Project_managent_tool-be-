@@ -69,3 +69,6 @@ cd project-management-tool
 
 # Start all services
 docker-compose up --build
+
+
+Frontend part Link: https://github.com/Barshono96/Project_managent_tool-fe-/tree/main
